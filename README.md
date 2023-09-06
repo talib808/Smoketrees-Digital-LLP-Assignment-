@@ -25,7 +25,7 @@ npm install
 > Start the backend server:
 ```
 cd backend
-nodemon index.js
+nodemon server.js
 ```
 - Access the application by opening a web browser and navigating to http://localhost:5000.
 
